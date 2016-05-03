@@ -2,10 +2,12 @@ body{
 	background-color: black;
 }
 
-p{
-	color:#cacaca;
+
+h1,p{
+	color:yellow;
+	text-decoration: underline;
 }
 
-h1{
-	color:yellow;
+img{
+	border:2px solid yellow;
 }
